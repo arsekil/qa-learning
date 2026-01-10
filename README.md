@@ -1,0 +1,1 @@
+# Manual QA Tester Learning
