@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+*.log
+
+# Screenshots and videos from tests
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+test-results/
+playwright-report/
+
+# Environment variables
+.env
+.env.local
+
+# Obsidian (if storing vault here)
+.obsidian/
+.trash/
