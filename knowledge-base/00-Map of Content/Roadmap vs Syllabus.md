@@ -1,0 +1,1 @@
+I observed that the syllabus only covers only the 1/10 of the QA Roadmap displayed on roadmap.sh website.
