@@ -13,7 +13,7 @@ I have learnt about what testing is, differences between Testing, QA and QC, Err
 N/A
 
 ## Links to Work
-[ISTQB 1.2](./QAL-5%20ISTQB%201.2%20Necessity%20of%20Testing.pdf)
+[ISTQB 1.2](QAL-5%20ISTQB%201.2%20Necessity%20of%20Testing.pdf)
 
 ## Questions and Blockers
 N/A

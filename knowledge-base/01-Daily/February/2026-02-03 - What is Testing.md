@@ -13,7 +13,7 @@ I have learned about what testing is, typical text objectives, dynamic and stati
 N/A
 
 ## Links to Work
-[ISTQB 1.1](./QAL-4%20ISTQB%201.1%20What%20is%20Testing.pdf)
+[ISTQB 1.1](QAL-4%20ISTQB%201.1%20What%20is%20Testing.pdf)
 
 ## Questions and Blockers
 None yet

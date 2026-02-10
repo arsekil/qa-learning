@@ -29,7 +29,7 @@ Pareto principle:
 n/a
 
 ## Links to Work
-[ISTQB 1.3](./QAL-6%20ISTQB%201.3%20Testing%20Principles.pdf)
+[ISTQB 1.3](QAL-6%20ISTQB%201.3%20Testing%20Principles.pdf)
 
 ## Questions and Blockers
 Is there a complete list of all testing principles?
