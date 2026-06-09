@@ -1,10 +1,10 @@
 ---
-date: 2026-02-10
+date: 2026-06-10
 tags: daily
 ---
 
 ## Today's Focus
-Traceability between Test Basis and Testware
+Roles in Testing
 
 ## What I Learned
 
